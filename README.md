@@ -2,14 +2,6 @@
   <img src="./Headshot.jpg" width="150" height="150" style="border-radius: 50%;" />
 </p>
 <table>
-  <tr>
-    <td><img src="logo.png" width="100" alt="Company Logo"></td>
-    <td><img src="Headshot.jpg" width="100" alt="Sandhya Rani Desham"></td>
-  </tr>
-</table>
-
-
-![My Profile](./Headshot.jpg)
 
 
 # Senior Quality Assurance Analyst 
