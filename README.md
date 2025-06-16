@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./Headshot.jpg" width="150" height="150" style="border-radius: 50%;" />
+  <img src="/assets/Headshot.jpg" width="150" height="150" style="border-radius: 50%;" />
 </p>
 <table>
 
