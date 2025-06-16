@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Headshot.jpg" width="150" height="150" alt="Sandhya Rani Desham Profile Photo">
+  <img src="./Headshot.jpeg" width="150" height="150" alt="Sandhya Rani Desham Profile Photo">
 </p>
 
 ![My Profile](./Headshot.jpeg)
