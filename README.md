@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.jpg" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 # Senior Quality Assurance Analyst 
    
 ## Summary
