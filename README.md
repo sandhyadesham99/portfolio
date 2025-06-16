@@ -16,7 +16,7 @@ Other: Root Cause Analysis, UAT Coordination, Risk-Based Testing, Team Mentorshi
 
 # Work Experience
 
-Experian – Senior QA Analyst
+### Experian – Senior QA Analyst
 Franklin, TN | Nov 2024 – Present
 
 -Led end-to-end QA processes across multiple phases of development.
@@ -25,27 +25,27 @@ Franklin, TN | Nov 2024 – Present
 -Mentored junior testers and collaborated with developers, BAs, and stakeholders.
 -Delivered regular QA metrics and dashboards to leadership.
 
-NantHealth – QA Analyst
+### NantHealth – QA Analyst
 Morrisville, NC | Sept 2023 – Oct 2024
 
 -Created and executed test cases for UI, API, and back-end validations.
 -Participated in Agile ceremonies and managed test environments for QA/UAT.
 -Identified root causes, documented issues clearly, and supported release testing.
 
-Capgemini – Software Engineer
+### Capgemini – Software Engineer
 Hyderabad, India | May 2021 – Aug 2023
 
 -Performed regression, integration, and functional testing on mainframe and web systems.
 -Used TSYS, IACT, and RSA platforms for transaction, authentication, and security testing.
 -Validated ledger entries, EDI files, and post-upgrade compatibility.
 
-Cloud QA – Junior Software Engineer
+### Cloud QA – Junior Software Engineer
 Hyderabad, India | May 2019 – Apr 2021
 
 -Conducted manual testing and defect reporting using Excel and JIRA.
 -Executed test cases, re-tested bug fixes, and ensured consistent environment testing.
 
-Ivy – Analyst Intern
+### Ivy – Analyst Intern
 Hyderabad, India | Oct 2018 – Apr 2019
 
 -Supported manual and API testing efforts across mobile and web apps.
@@ -53,11 +53,11 @@ Hyderabad, India | Oct 2018 – Apr 2019
 
 
 
-### Education
+# Education
 
 Masters in Information Systems, Central Michigan University
 
-## Strengths
+# Strengths
 
 -Strong problem-solving and analytical skills
 -Effective communicator and proactive team player
