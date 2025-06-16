@@ -3,7 +3,6 @@
 </p>
 <table>
 
-
 # Senior Quality Assurance Analyst 
    
 ## Summary
