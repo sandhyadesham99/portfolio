@@ -19,8 +19,8 @@ Experienced Senior Quality Assurance Analyst with over 7 years in manual testing
 **Experian – Senior QA Analyst** 
 Franklin, TN | Nov 2024 – Present
 
-**-** Led end-to-end QA processes across multiple phases of development.
-**-** Designed detailed test plans covering functional, regression, UI, and system testing.
+- Led end-to-end QA processes across multiple phases of development
+- Designed detailed test plans covering functional, regression, UI, and system testing.
 - Reported, tracked, and resolved bugs using JIRA and Bugzilla.
 - Mentored junior testers and collaborated with developers, BAs, and stakeholders.
 - Delivered regular QA metrics and dashboards to leadership.
