@@ -6,7 +6,7 @@ Experienced Senior Quality Assurance Analyst with over 7 years in manual testing
 
 ## Technical Skills
 
-- Testing Tools: JIRA, TestRail, Bugzilla, Selenium (basic), Postman, HP ALM
+- **Testing Tools**: JIRA, TestRail, Bugzilla, Selenium (basic), Postman, HP ALM
 - Methodologies: Manual Testing, Regression, Smoke, UAT, Agile, Scrum, Waterfall
 - Languages & Scripting: SQL, Excel, Python (basic)
 - CI/CD & Automation: Jenkins, Git, GitHub, Selenium WebDriver
