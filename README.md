@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./profile.jpg" width="150" height="150" style="border-radius: 50%;" />
 </p>
+![My Profile](./Headshot.jpg)
+
 
 # Senior Quality Assurance Analyst 
    
