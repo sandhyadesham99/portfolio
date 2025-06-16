@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./Headshot.jpg" width="150" height="150" style="border-radius: 50%;" />
+  <img src="./Headshot.jpeg" width="150" height="150" style="border-radius: 50%;" />
 </p>
-![My Profile](./Headshot.jpg)
+![My Profile](./Headshot.jpeg)
 
 
 # Senior Quality Assurance Analyst 
