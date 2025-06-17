@@ -1,4 +1,4 @@
-<img src="assets/Profile.jpg" width="50" align="left" alt="Sandhya Rani Desham" />
+<img src="assets/Profile.jpeg" width="50" align="left" alt="Sandhya Rani Desham" />
 
 # Senior Quality Assurance Analyst
 
