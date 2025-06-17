@@ -63,7 +63,11 @@ Masters in Information Systems, Central Michigan University
 - Effective communicator and proactive team player
 - Versatile across domains, platforms, and tools
 - Adaptable in fast-paced, dynamic environments
+  
+## Connect me
 
+https://www.linkedin.com/in/sandhyarani-desham-37082616a/
+https://medium.com/@deshamsandhyarani99
 
    
 
