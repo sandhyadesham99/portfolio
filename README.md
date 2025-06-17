@@ -3,11 +3,11 @@
 # Senior Quality Assurance Analyst
 
    
-## Summary
+### Summary
 
 Experienced Senior Quality Assurance Analyst with over 7 years in manual testing, defect tracking, and data    validation. Skilled in creating test plans, executing functional and regression tests, and ensuring software quality across web and enterprise applications. Proficient with tools like JIRA, TestRail, SQL, Power BI, and Tableau. Strong understanding of SDLC, STLC, and Agile frameworks with proven collaboration across cross-functional teams. Known for process improvements, QA documentation, and mentoring junior testers. Holds a Master's in Information Systems and consistently adapts to evolving QA trends.
 
-## Technical Skills
+### Technical Skills
 
 - **Testing Tools**: JIRA, TestRail, Bugzilla, Selenium (basic), Postman, HP ALM
 - **Methodologies**: Manual Testing, Regression, Smoke, UAT, Agile, Scrum, Waterfall
