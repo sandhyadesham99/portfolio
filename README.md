@@ -1,4 +1,3 @@
-
 # Senior Quality Assurance Analyst
    
 ### Summary
