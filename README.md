@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td><img src="logo.png" width="30" alt="Logo"></td>
-    <td><img src="assets/Profile.jpeg" width="30" alt="Sandhya Rani Desham"></td>
-  </tr>
-</table>
+<img src="assets/Profile.jpeg" width="40" align="left" alt="Sandhya Rani Desham" />
 
 
 
