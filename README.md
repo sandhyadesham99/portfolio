@@ -33,15 +33,15 @@ Morrisville, NC | Sept 2023 – Oct 2024
 - Participated in Agile ceremonies and managed test environments for QA/UAT.
 - Identified root causes, documented issues clearly, and supported release testing.
 
-**Capgemini – Software Engineer**
-Hyderabad, India | May 2021 – Aug 2023
+**TCS – Software Engineer**
+Hyderabad, India | June 2021 – Aug 2023
 
 - Performed regression, integration, and functional testing on mainframe and web systems.
 - Used TSYS, IACT, and RSA platforms for transaction, authentication, and security testing.
 - Validated ledger entries, EDI files, and post-upgrade compatibility.
 
 **Cloud QA – Junior Software Engineer**
-Hyderabad, India | May 2019 – Apr 2021
+Hyderabad, India | May 2019 – June 2021
 
 - Conducted manual testing and defect reporting using Excel and JIRA.
 - Executed test cases, re-tested bug fixes, and ensured consistent environment testing.
