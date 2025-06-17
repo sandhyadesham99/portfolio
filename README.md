@@ -1,8 +1,5 @@
 
-<p align="left">
-  <img src="/assets/Profile.jpeg" width="50" height="50" style="border-radius: 50%;" />
-</p>
-<table>
+
 # Senior Quality Assurance Analyst
 
    
