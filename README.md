@@ -1,4 +1,3 @@
-<img src="assets/Profile.jpeg" width="40" align="left" alt="Sandhya Rani Desham" />
 
 
 
