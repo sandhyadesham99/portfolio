@@ -53,7 +53,6 @@ Hyderabad, India | Oct 2018 – Apr 2019
 - Assisted in documentation, sprint testing, and automation prep activities.
 
 
-
 ## Education
 
 Masters in Information Systems, Central Michigan University
