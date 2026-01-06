@@ -1,5 +1,5 @@
 
-# Senior Quality Assurance Analyst
+# SDET Automation Engineer
    
 ### Summary
 
@@ -17,8 +17,19 @@ Experienced Senior Quality Assurance Analyst with over 7 years in manual testing
 
 ## Work Experience
 
-**Experian – Senior QA Analyst** 
-Franklin, TN | Nov 2024 – Present
+**Walmart – SDET Automation Engineer**
+Bentonville, AR | Oct 2025 – Dec 2025
+
+- Led end-to-end QA activities for Healthcare clinical decision systems, covering API, UI, database, and regression testing.
+- Designed and executed detailed test plans and test cases for functional, integration, E2E, and regression testing.
+- Automated API and backend test scenarios using Java, TestNG, and Dragon Automation Framework.
+- Validated backend data and clinical workflows using complex SQL queries to ensure data accuracy and integrity.
+- Ensured HIPAA compliance by validating secure handling of PHI across healthcare applications.
+- Reported, tracked, and resolved defects using JIRA, and collaborated closely with development teams.
+- Delivered QA status reports, quality metrics, and release readiness updates to stakeholders.
+  
+**Experian – Software Developer in Test** 
+Franklin, TN | Nov 2024 – Nov 2025
 
 - Led end-to-end QA processes across multiple phases of development
 - Designed detailed test plans covering functional, regression, UI, and system testing.
@@ -26,7 +37,7 @@ Franklin, TN | Nov 2024 – Present
 - Mentored junior testers and collaborated with developers, BAs, and stakeholders.
 - Delivered regular QA metrics and dashboards to leadership.
 
-**NantHealth – QA Analyst**
+**NantHealth – Senior Software Engineer**
 Morrisville, NC | Sept 2023 – Oct 2024
 
 - Created and executed test cases for UI, API, and back-end validations.
